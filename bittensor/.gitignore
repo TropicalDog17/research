@@ -21,12 +21,6 @@ __pycache__/
 *.swp
 *.swo
 
-# Output files
-*.png
-*.csv
-*.jpg
-*.jpeg
-
 # OS files
 .DS_Store
 Thumbs.db
